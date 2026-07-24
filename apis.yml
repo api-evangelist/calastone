@@ -1,7 +1,14 @@
 aid: calastone
 name: Calastone
-description: 'Calastone is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Calastone operates the world''s largest global funds network, connecting
+  asset managers, distributors, custodians and platforms to automate and digitalize
+  the investment funds marketplace. Founded in 2007 and headquartered in London, it
+  provides order routing, settlements, share-class conversions, dividends, transfers,
+  reporting, money market services and tokenized fund distribution. More than 4,500
+  clients across 58 countries and territories use the network, processing over £300
+  billion of investment value each month. API and messaging connectivity is delivered
+  through client onboarding rather than a public self-service developer portal. Calastone
+  is a wholly owned subsidiary of SS&C Technologies Holdings, Inc. (Nasdaq: SSNC).'
 url: https://raw.githubusercontent.com/api-evangelist/calastone/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +16,31 @@ x-backed-by:
 - accel
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Fintech
+- Funds
+- Asset Management
+- Fund Administration
+- Financial Services
+- Money Markets
+- Settlements
+- Tokenization
+image: https://www.calastone.com/wp-content/themes/calastone/assets/images/calastone-logo-black-new.png
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,5 +48,24 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/calastone-domain-security.yml
 - type: Website
-  url: http://www.calastone.com
+  url: https://www.calastone.com
+- type: About
+  url: https://www.calastone.com/about-us/
+- type: Blog
+  url: https://www.calastone.com/insights/
+- type: Support
+  url: https://www.calastone.com/contact-us/
+- type: TermsOfService
+  url: https://www.calastone.com/terms-of-website-use/
+- type: PrivacyPolicy
+  url: https://www.ssctech.com/about/privacy
+- type: LLMsTxt
+  url: llms/calastone-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

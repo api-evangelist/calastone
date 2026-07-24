@@ -1,0 +1,21 @@
+# Calastone
+
+> Calastone operates the world's largest global funds network, connecting asset managers, distributors, custodians and platforms to automate and digitalize the investment funds marketplace. Founded in 2007 and headquartered in London, it handles order routing, settlements, share-class conversions, dividends, transfers, reporting, money market services and tokenized fund distribution for 4,500+ clients across 58 countries, processing over £300 billion of investment value each month. Calastone is a wholly owned subsidiary of SS&C Technologies Holdings, Inc. (Nasdaq: SSNC).
+
+## Company
+
+- [Homepage](https://www.calastone.com/): Global funds network overview.
+- [About Us](https://www.calastone.com/about-us/): Company, offices, scale and ownership.
+- [Contact](https://www.calastone.com/contact-us/): Sales and support contact.
+- [Insights](https://www.calastone.com/insights/): Blog, research and white papers.
+
+## Solutions
+
+- [Order Routing & Settlements](https://www.calastone.com/solutions/order-routing-settlements/): Automated fund order routing and settlement.
+- [Money Market Services](https://www2.calastone.com/treasurers_guide_to_APIs): API-driven liquidity fund trading, settlement, reporting and sweeps.
+- [Platforms](https://www.calastone.com/clients/platforms/): Connectivity for wealth and distribution platforms.
+
+## Notes
+
+- API and messaging connectivity is provisioned through client onboarding and a test environment; there is no public self-service developer portal, OpenAPI, or SDK registry as of this writing.
+- Legal: [Terms of Website Use](https://www.calastone.com/terms-of-website-use/) · [Privacy Notice](https://www.ssctech.com/about/privacy)
