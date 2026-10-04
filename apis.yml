@@ -47,7 +47,7 @@ tags:
 - Fund
 - Asset Management
 - Fund Administration
-- Financial-Services
+- Financial Services
 - Money Markets
 - Settlement
 - Tokenization
@@ -61,6 +61,7 @@ tags_raw:
 - Money Markets
 - Settlements
 - Tokenization
+- Financial-Services
 image: https://www.calastone.com/wp-content/themes/calastone/assets/images/calastone-logo-black-new.png
 apis: []
 maintainers:
